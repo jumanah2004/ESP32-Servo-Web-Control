@@ -91,6 +91,5 @@ The ESP32 creates its own WiFi network (Access Point mode) and serves a styled c
 | `/open`    | GET    | Moves servo to open position           |
 | `/close`   | GET    | Moves servo to close position          |
 
-## 📄 License
 
-Feel free to use and modify this project for personal or educational purposes.
+
