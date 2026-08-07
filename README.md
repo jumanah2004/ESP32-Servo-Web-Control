@@ -15,6 +15,7 @@ A simple ESP32-based project that lets you control a servo motor (open/close) fr
 
 **🎬 Demo Video**
 https://github.com/user-attachments/assets/319f9023-a928-4c2e-9e3d-c5e60a742554
+
 [![Demo Video](https://github.com/user-attachments/assets/319f9023-a928-4c2e-9e3d-c5e60a742554)
 
 *(On GitHub, upload the video file directly into an Issue or the repo — GitHub will generate a playable link you can paste above. Local `.mp4` files don't play inline in a README.)*
