@@ -17,7 +17,6 @@ A simple ESP32-based project that lets you control a servo motor (open/close) fr
 
 https://github.com/user-attachments/assets/319f9023-a928-4c2e-9e3d-c5e60a742554
 
-![ALSO LINK ]()
 ## 📝 Overview
 
 The ESP32 creates its own WiFi network (Access Point mode) and serves a styled control panel. From the panel you can:
