@@ -73,6 +73,8 @@ The ESP32 creates its own WiFi network (Access Point mode) and serves a styled c
 3. Use the **Open** and **Close** buttons on the control panel to move the servo and toggle the LEDs.
 4. The status badge at the top updates automatically to reflect the device's current state.
 
+💡 You can also preview the control panel design (UI only, without controlling the actual device) without connecting to the Badr_Servo WiFi, by visiting: https://jumanah.free.je/a/?i=1
+
 ## 🧠 How It Works
 
 - The ESP32 runs a lightweight `WebServer` on port 80.
