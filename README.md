@@ -11,6 +11,9 @@ A simple ESP32-based project that lets you control a servo motor (open/close) fr
 **🔩 Circuit / Wiring Diagram**
 
 ![Circuit Diagram](https://github.com/jumanah2004/ESP32-Servo-Web-Control/blob/16c3ddd38eabab4e9d023e1267d920e607c22a2a/LLL.png)
+
+👉 **[Click Here to go to wokwi Simulation](https://wokwi.com/projects/471595482222056449)**
+
 ![Circuit PHOTO](https://github.com/jumanah2004/ESP32-Servo-Web-Control/blob/4ca6a569d5f9e5d1f2a1959c1f4376a464aba3b1/pr.png)
 
 **🎬 Demo Video**
